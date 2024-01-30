@@ -1,0 +1,38 @@
+[
+  {
+    "name": "manufacture name",
+    "manufacture_code_id": 2,
+    "id": 1,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-08 00:29:15",
+    "date_created": "2023-05-08 00:28:48"
+  },
+  {
+    "name": "Product A",
+    "manufacture_code_id": 3,
+    "id": 2,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 10:45:30",
+    "date_created": "2023-06-18 10:20:15"
+  },
+  {
+    "name": "Medicine XYZ",
+    "manufacture_code_id": 4,
+    "id": 3,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 14:20:45",
+    "date_created": "2023-06-18 14:00:10"
+  },
+  {
+    "name": "Sample Product",
+    "manufacture_code_id": 5,
+    "id": 4,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 18:15:00",
+    "date_created": "2023-06-18 17:45:30"
+  }
+]

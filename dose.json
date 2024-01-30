@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "dose_stg": "for every 5hrs a day",
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-11 01:46:38",
+    "date_created": "2023-05-08 00:19:21"
+  },
+  {
+    "id": 2,
+    "dose_stg": "twice daily before meals",
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 15:30:00",
+    "date_created": "2023-06-18 12:45:00"
+  },
+  {
+    "id": 3,
+    "dose_stg": "once a day after breakfast",
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 18:20:15",
+    "date_created": "2023-06-18 14:10:30"
+  },
+  {
+    "id": 4,
+    "dose_stg": "as needed for pain",
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-18 21:05:45",
+    "date_created": "2023-06-18 17:55:10"
+  }
+]

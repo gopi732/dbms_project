@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Vitamins & Supplements",
+    "description": "Explore a wide range of vitamins and supplements to support your overall health. From multivitamins to specialized supplements, we have everything you need.",
+    "image_url": "https://example.com/vitamins.png",
+    "id": 13,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 09:30:45",
+    "date_created": "2023-06-20 09:30:45"
+  },
+  {
+    "name": "Personal Care",
+    "description": "Find the best personal care products for your daily needs. From skincare to haircare, we offer a variety of high-quality products to enhance your beauty routine.",
+    "image_url": "https://example.com/personal_care.png",
+    "id": 14,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 10:15:22",
+    "date_created": "2023-06-20 10:15:22"
+  },
+  {
+    "name": "Sports Nutrition",
+    "description": "Elevate your fitness journey with our sports nutrition range. Whether you're an athlete or a fitness enthusiast, we have the supplements you need for optimal performance.",
+    "image_url": "https://example.com/sports_nutrition.png",
+    "id": 15,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 11:45:10",
+    "date_created": "2023-06-20 11:45:10"
+  },
+  {
+    "name": "Mother and baby Care",
+    "description": "1234",
+    "image_url": "https://cdn01.pharmeasy.in/dam/discovery/categoryImages/f692f7243b8036ed97d99a7973dd42b3.png",
+    "id": 12,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-11 02:24:21",
+    "date_created": "2023-05-11 02:24:21"
+  }
+]

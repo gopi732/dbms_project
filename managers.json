@@ -1,0 +1,38 @@
+[
+  {
+    "name": "sathw",
+    "mobile": "123456789888888",
+    "email": "swqac@gmail.com",
+    "address": "xyz",
+    "password": "***********",
+    "id": 1,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-07 19:11:54",
+    "date_created": "2023-05-07 19:11:54"
+  },
+  {
+    "name": "john",
+    "mobile": "987654321000000",
+    "email": "john@example.com",
+    "address": "123 Main St",
+    "password": "******",
+    "id": 2,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-20 08:30:45",
+    "date_created": "2023-05-20 08:30:45"
+  },
+  {
+    "name": "alice_smith",
+    "mobile": "555555555555555",
+    "email": "alice.smith@example.com",
+    "address": "456 Oak St",
+    "password": "**********",
+    "id": 3,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-02 14:45:21",
+    "date_created": "2023-06-02 14:45:21"
+  }
+]

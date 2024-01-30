@@ -1,0 +1,35 @@
+[
+  {
+    "manufacture_1": "one",
+    "manufacture_2": "two",
+    "manufacture_3": "three",
+    "manufacture_4": "four",
+    "id": 2,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-08 00:24:52",
+    "date_created": "2023-05-08 00:24:52"
+  },
+  {
+    "manufacture_1": "one",
+    "manufacture_2": "two",
+    "manufacture_3": "three",
+    "manufacture_4": "four",
+    "id": 3,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-08 00:24:58",
+    "date_created": "2023-05-08 00:24:58"
+  },
+  {
+    "manufacture_1": "one",
+    "manufacture_2": "two",
+    "manufacture_3": "three",
+    "manufacture_4": "four",
+    "id": 4,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-08 00:24:59",
+    "date_created": "2023-05-08 00:24:59"
+  }
+]

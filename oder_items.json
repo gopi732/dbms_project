@@ -1,0 +1,184 @@
+[
+  {
+    "id": 1,
+    "order_id": 2,
+    "medicine_id": 6,
+    "amount": 20,
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "order_id": 2,
+    "medicine_id": 7,
+    "amount": 600,
+    "quantity": 2
+  },
+  {
+    "id": 3,
+    "order_id": 2,
+    "medicine_id": 8,
+    "amount": 400,
+    "quantity": 2
+  },
+  {
+    "id": 4,
+    "order_id": 3,
+    "medicine_id": 6,
+    "amount": 20,
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "order_id": 3,
+    "medicine_id": 7,
+    "amount": 600,
+    "quantity": 2
+  },
+  {
+    "id": 6,
+    "order_id": 3,
+    "medicine_id": 8,
+    "amount": 400,
+    "quantity": 2
+  },
+  {
+    "id": 7,
+    "order_id": 4,
+    "medicine_id": 6,
+    "amount": 20,
+    "quantity": 2
+  },
+  {
+    "id": 8,
+    "order_id": 11,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "order_id": 11,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "order_id": 12,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 11,
+    "order_id": 13,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "order_id": 13,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "order_id": 13,
+    "medicine_id": 8,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "order_id": 13,
+    "medicine_id": 10,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "order_id": 13,
+    "medicine_id": 11,
+    "amount": 200,
+    "quantity": 2
+  },
+  {
+    "id": 16,
+    "order_id": 13,
+    "medicine_id": 12,
+    "amount": 500,
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "order_id": 13,
+    "medicine_id": 14,
+    "amount": 1000,
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "order_id": 14,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "order_id": 14,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 2
+  },
+  {
+    "id": 20,
+    "order_id": 16,
+    "medicine_id": 6,
+    "amount": 45,
+    "quantity": 1
+  },
+  {
+    "id": 21,
+    "order_id": 17,
+    "medicine_id": 5,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 24,
+    "order_id": 20,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 25,
+    "order_id": 21,
+    "medicine_id": 6,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 26,
+    "order_id": 21,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 1
+  },
+  {
+    "id": 27,
+    "order_id": 22,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 3
+  },
+  {
+    "id": 28,
+    "order_id": 23,
+    "medicine_id": 7,
+    "amount": 300,
+    "quantity": 1
+  }
+]

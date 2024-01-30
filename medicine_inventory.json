@@ -1,0 +1,38 @@
+[
+  {
+    "medicine_short_name": "two",
+    "current_quantity": "three",
+    "id": 3,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-05-08 00:45:18",
+    "date_created": "2023-05-08 00:45:18"
+  },
+  {
+    "medicine_short_name": "aspirin",
+    "current_quantity": 150,
+    "id": 4,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 12:30:15",
+    "date_created": "2023-06-20 12:30:15"
+  },
+  {
+    "medicine_short_name": "ibuprofen",
+    "current_quantity": 200,
+    "id": 5,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 13:15:42",
+    "date_created": "2023-06-20 13:15:42"
+  },
+  {
+    "medicine_short_name": "paracetamol",
+    "current_quantity": 180,
+    "id": 6,
+    "created_by": null,
+    "updated_by": null,
+    "last_updated_date": "2023-06-20 14:45:30",
+    "date_created": "2023-06-20 14:45:30"
+  }
+]
